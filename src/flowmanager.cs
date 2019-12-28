@@ -81,20 +81,6 @@ namespace FlowManager
             return null;
         }
 
-        // public void increaseLevel()
-        // {
-        //     level++;
-        // }
-
-        // public void decreaseLevel()
-        // {
-        //     if (level > 0)
-        //     {
-        //         collectGarbage();
-        //         level--;
-        //     }
-        // }
-
         /// <summary>
         /// Execute next action in the flow
         /// </summary>
